@@ -7,16 +7,16 @@
 //Peer Review:
 //Review:
 
-string playerAnswer;
-do
+string playerAnswer;// initall declared variable
+do//do while loop with if/else loop contained
 {
 Console.WriteLine("Please enter a whole number");
 
 string oddOrEven = Console.ReadLine();
 
-int newOddOrEven = Convert.ToInt32 (oddOrEven) % 2;
+int newOddOrEven = Convert.ToInt32 (oddOrEven) % 2;//converted string with modulo to find odd or even
 
-if(newOddOrEven == 0)
+if(newOddOrEven == 0)// if/else loop
 {
     Console.WriteLine ("Your number is Even");
 } 
@@ -34,4 +34,4 @@ if (playerAnswer == "NO")
     }
 
 
-} while (playerAnswer == "YES");
+} while (playerAnswer == "YES");// continues with yes, stops with no
