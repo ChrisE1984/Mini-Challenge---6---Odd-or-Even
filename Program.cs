@@ -4,8 +4,8 @@
 //created a program with an if else loop within a do while loop that asks the user to enter a whole number
 // and tells them if it's even or odd using modulo. Then the program asks the user to play again, looping if 
 // the answer is yes and stopping if the answer is no
-//Peer Review:
-//Review:
+//Peer Review: Zionn Showers
+//Review: Code runs well with no issues. I like that you used the modulo on the same line where you convert the string into an integer. I feel that the drawio is a bit weird to understand in my personal opinion.
 
 string playerAnswer;// initall declared variable
 do//do while loop with if/else loop contained
