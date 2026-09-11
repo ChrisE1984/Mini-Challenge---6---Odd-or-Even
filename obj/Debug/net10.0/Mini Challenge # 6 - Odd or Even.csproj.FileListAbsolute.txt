@@ -1,0 +1,14 @@
+C:\Users\cestr\Desktop\Homework\Mini Challenge # 6 - Odd or Even\obj\Debug\net10.0\Mini Challenge # 6 - Odd or Even.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cestr\Desktop\Homework\Mini Challenge # 6 - Odd or Even\obj\Debug\net10.0\Mini Challenge # 6 - Odd or Even.AssemblyInfoInputs.cache
+C:\Users\cestr\Desktop\Homework\Mini Challenge # 6 - Odd or Even\obj\Debug\net10.0\Mini Challenge # 6 - Odd or Even.AssemblyInfo.cs
+C:\Users\cestr\Desktop\Homework\Mini Challenge # 6 - Odd or Even\obj\Debug\net10.0\Mini Challenge # 6 - Odd or Even.csproj.CoreCompileInputs.cache
+C:\Users\cestr\Desktop\Homework\Mini Challenge # 6 - Odd or Even\bin\Debug\net10.0\Mini Challenge # 6 - Odd or Even.exe
+C:\Users\cestr\Desktop\Homework\Mini Challenge # 6 - Odd or Even\bin\Debug\net10.0\Mini Challenge # 6 - Odd or Even.deps.json
+C:\Users\cestr\Desktop\Homework\Mini Challenge # 6 - Odd or Even\bin\Debug\net10.0\Mini Challenge # 6 - Odd or Even.runtimeconfig.json
+C:\Users\cestr\Desktop\Homework\Mini Challenge # 6 - Odd or Even\bin\Debug\net10.0\Mini Challenge # 6 - Odd or Even.dll
+C:\Users\cestr\Desktop\Homework\Mini Challenge # 6 - Odd or Even\bin\Debug\net10.0\Mini Challenge # 6 - Odd or Even.pdb
+C:\Users\cestr\Desktop\Homework\Mini Challenge # 6 - Odd or Even\obj\Debug\net10.0\Mini Challenge # 6 - Odd or Even.dll
+C:\Users\cestr\Desktop\Homework\Mini Challenge # 6 - Odd or Even\obj\Debug\net10.0\refint\Mini Challenge # 6 - Odd or Even.dll
+C:\Users\cestr\Desktop\Homework\Mini Challenge # 6 - Odd or Even\obj\Debug\net10.0\Mini Challenge # 6 - Odd or Even.pdb
+C:\Users\cestr\Desktop\Homework\Mini Challenge # 6 - Odd or Even\obj\Debug\net10.0\Mini Challenge # 6 - Odd or Even.genruntimeconfig.cache
+C:\Users\cestr\Desktop\Homework\Mini Challenge # 6 - Odd or Even\obj\Debug\net10.0\ref\Mini Challenge # 6 - Odd or Even.dll
